@@ -1,38 +1,24 @@
-# create-svelte
+# calcodev.net
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+After 3 years of web development, finally a personal website.
 
-## Creating a project
+## Description
 
-If you're seeing this, you've probably already done this step. Congrats!
+This is a personal website, built with SvelteKit. It will be the main hub for my projects, and a place to showcase my skills, a place to try out new things, and a place to learn. That being said however, here are a few disclaimers:
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+1. This is a work in progress, and will be for a while.
+2. I am not a designer. I am a mainly a programmer. The designs will chance hopefully change a lot over time, as I learn more about design.
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Authors
 
-## Developing
+* [@Calcopod](https://twitter.com/dompizzie)
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## License
 
-```bash
-npm run dev
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Acknowledgments
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [Svelte](https://svelte.dev/)
+* [SvelteKit](https://kit.svelte.dev/)
