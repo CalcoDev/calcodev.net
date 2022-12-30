@@ -11,7 +11,7 @@ This is a personal website, built with SvelteKit. It will be the main hub for my
 
 ## Authors
 
-* [@Calcopod](https://twitter.com/dompizzie)
+* [@Calcopod](https://twitter.com/calcopod2)
 
 ## License
 
